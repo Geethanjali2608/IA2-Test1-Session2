@@ -22,3 +22,5 @@ int main()
   output(base,height,area);
   return 0;
 }
+
+  
