@@ -1,4 +1,4 @@
-k#include<stdio.h>
+#include<stdio.h>
 int input_side()
 {
   int a;
